@@ -1,0 +1,28 @@
+create blog
+upload blog into git
+host blog
+
+
+blog content--
+weekly summary of all the things I learned about programming/ programming journey
+
+everyday write everything that happened that day in a text file and upload to git
+
+every sunday compile then write the weekly summary
+
+----web design
+
+navbar with hamburger menu
+	options:About me
+		Contact
+		Portfolio
+	
+
+body 
+	divs class = cards
+		blog post title
+		description
+		date added
+
+	Goal of this project/website
+	
