@@ -5,8 +5,6 @@ went to school, learned about the history of internet 'arpanet' internet2, IP ad
 
 then next subject we developed our own website using sites.google.com 
 
-"C:\Users\daluz\Downloads\Jose Vivares Daluz- eportfolio.docx"
-
 then at home I studied discrete math and python.
 june 20 - no log
 june 21 wednesday
@@ -15,3 +13,9 @@ CT math full marks, complete CS assignment. nothing else.
 
 june22 
 learn about math, probability and boolean theory
+
+june 23
+
+finished CS group assignment (school network)
+did some leetcode
+study google cyber security
