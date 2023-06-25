@@ -1,0 +1,26 @@
+intro
+about me
+goal of this blogsite
+-document journey of becoming a programmer
+-share general life interest
+-inspire people like me
+---
+How I plan to make my blogs
+-log exciting/new things I learn every day
+-every sunday look through my daily log then pick out the best thing to make a blog about or a combination of interest things that happened throughout the week
+-Blog post every Sunday
+-upload everything on Github
+conclusion
+================================
+Hello reader, I am your average human, living an average geeky life, making this average blog post!
+
+I'm new to blogging, so please bear with me as I navigate this new territory! I am making this post for three reasons. Number one is to document my journey of becoming a programmer.I am currently learning python and I agree with the general thinking that it is the best language for beginners because the syntaxes are so much better than other languages. Another goal of this blog is to share my everyday thoughts and feelings in a way that connects with you, the reader. I'll try to be as transparent and open as I can for these blogs. Lastly, I want to bring inspiration to people that are going through the struggles of anxiety and depression and the feeling of hopelessness, the things I personally went through and conquered :D.
+
+How do I make these blogs?
+
+Every day I open up a journal and write everything that was interesting that day, and come sunday I look through the logs and choose topics to write about. As I am a student programmer, I upload everything on github. I am new to git so that is also a thing I am trying to learn and familiarize by using it daily. 
+
+
+If you've made this part of the post, congratulations! And thank you for reading this boring post of mine. I promise to make the upcoming posts more interesting. Unlock your potential, one line of code at a time.
+
+ 

@@ -1,0 +1,14 @@
+intro
+about me
+goal of this blogsite
+-document journey of becoming a programmer
+-share general life interest
+-inspire people like me
+---
+How I plan to make my blogs
+-log exciting/new things I learn every day
+-every sunday look through my daily log then pick out the best thing to make a blog about or a combination of interest things that happened throughout the week
+-Blog post every Sunday
+-upload everything on Github
+conclusion
+================================
