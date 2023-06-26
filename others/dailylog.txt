@@ -19,3 +19,7 @@ june 23
 finished CS group assignment (school network)
 did some leetcode
 study google cyber security
+
+june 26 mon
+
+used chat gpt to give me a course outline for data structures and algorithms, gaining the knowledge of the course and having the skills to code in python will be the key to getting a job as a software developer. 
