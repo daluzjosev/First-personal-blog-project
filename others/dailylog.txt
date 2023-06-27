@@ -23,3 +23,7 @@ study google cyber security
 june 26 mon
 
 used chat gpt to give me a course outline for data structures and algorithms, gaining the knowledge of the course and having the skills to code in python will be the key to getting a job as a software developer. 
+
+jun27
+
+database class- erd diagram- went to meetup on machine learning. (Falcon - open source) task: come up with a usecase for falcon.
