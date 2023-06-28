@@ -27,3 +27,7 @@ used chat gpt to give me a course outline for data structures and algorithms, ga
 jun27
 
 database class- erd diagram- went to meetup on machine learning. (Falcon - open source) task: come up with a usecase for falcon.
+
+jun28
+
+leetcode, nothing interesting
