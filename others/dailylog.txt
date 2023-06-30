@@ -31,3 +31,13 @@ database class- erd diagram- went to meetup on machine learning. (Falcon - open 
 jun28
 
 leetcode, nothing interesting
+
+june 29
+
+holiday
+
+june 30
+
+finish making database for TODO LIST project
+with the help of chatgpt, html,css,javascript, database done. Need to create more features for website then host it.
+
