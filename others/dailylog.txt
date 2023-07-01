@@ -41,3 +41,9 @@ june 30
 finish making database for TODO LIST project
 with the help of chatgpt, html,css,javascript, database done. Need to create more features for website then host it.
 
+
+july 1
+
+data struc, algorithm, problem solving **
+
+
