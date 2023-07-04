@@ -50,4 +50,6 @@ july 3
 
 nothing interesting, 
 
+july 4
 
+more data structure and algo, learning about ER diagram and normalization
