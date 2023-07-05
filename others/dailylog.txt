@@ -53,3 +53,7 @@ nothing interesting,
 july 4
 
 more data structure and algo, learning about ER diagram and normalization
+
+july 5
+
+Made Cyber security portfolio, got accepted as coursera scholar
