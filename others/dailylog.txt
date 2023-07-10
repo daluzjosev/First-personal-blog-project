@@ -65,3 +65,7 @@ aliens!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! are!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 july 8
 
 made a vm and installed ubuntu, got to use tcpdump and wireshark, I want to learn about SIEMS next, specifically splunk
+
+july 10
+
+classtest, boring day...
