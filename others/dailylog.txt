@@ -69,3 +69,10 @@ made a vm and installed ubuntu, got to use tcpdump and wireshark, I want to lear
 july 10
 
 classtest, boring day...
+
+july 11
+
+Finished course 3 of google cert, almost done with 4th (linux course)
+learnt about linux distros
+Task: Use VMware to run Kali linux
+already did wireshark and tcpdump next is burp suite, metasploit and more
