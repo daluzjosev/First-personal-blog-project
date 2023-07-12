@@ -76,3 +76,7 @@ Finished course 3 of google cert, almost done with 4th (linux course)
 learnt about linux distros
 Task: Use VMware to run Kali linux
 already did wireshark and tcpdump next is burp suite, metasploit and more
+
+july 12
+
+made a script for lorebound channel
