@@ -85,3 +85,7 @@ made a script for lorebound channel
 july 13
 
 learn SQL- solved medium leetcode no help - finished UFO script for youtube ( good gym session)
+
+july 13
+
+learned sql injections - going to work on personal website blog-
