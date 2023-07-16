@@ -1,0 +1,25 @@
+Title: My Journey into Cybersecurity: Progress Update at 4 Months
+
+Introduction:
+When I began my programming journey, cybersecurity was my ultimate goal. However, I found myself drawn to web development, particularly back-end development. Recently, though, I've made a conscious decision to shift my focus back to cybersecurity and realign with my original roadmap. While I continue to work on web development projects and practice data structures and algorithms (DSA) during my spare time, my primary commitment lies in pursuing a career in cybersecurity. In this blog post, I'll share my progress and the roadmap I'm following.
+
+Roadmap Overview:
+To lay a solid foundation, I started by studying for the CompTIA A+ certification. However, I decided not to take the exam as I realized it wasn't necessary for breaking into cybersecurity. Nonetheless, I gained valuable knowledge about networking fundamentals, which plays a vital role in the field.
+
+ISC2 Cybersecurity Certificate:
+While not initially part of my roadmap, I seized the opportunity to earn the ISC2 Cybersecurity Certificate when it became available for free. This certification deepened my understanding of essential cybersecurity concepts, such as access controls, security controls, and basic networking principles.
+
+Python and Angela Yu's Bootcamp:
+Recognizing the importance of programming in cybersecurity, I embarked on learning Python through Angela Yu's bootcamp on Udemy. This comprehensive course not only taught me Python but also introduced me to the world of software engineering. I delved into interacting with APIs, understanding databases, and exploring various Python libraries and frameworks. With this knowledge, I've started working on web development projects alongside my studies.
+
+Career Prospects:
+Considering my newfound expertise in both back-end development and cybersecurity, I believe my chances of landing a job in Singapore are optimized. I'm planning to apply for positions as a back-end developer and a SOC analyst, as they align with my skills and interests.
+
+Current Progress: Security+ and Google Cybersecurity:
+Currently, I'm in the midst of studying for the Security+ certification and the Google Cybersecurity course. Since I've already passed the ISC2 CC and have a solid foundation in Python, this phase of my roadmap has been smooth sailing. I'm confident that by August, I'll be ready to take the Security+ exam. Once completed, I'll proceed to the next step on my roadmap: CCNA.
+
+Upcoming: CCNA:
+I'm incredibly excited to delve into CCNA, as earning this certification will further strengthen my resume. As soon as I finish Security+, I'll dive into CCNA study materials. I estimate dedicating 2-3 months to this certification, aiming to complete it by October or November. With CCNA in hand, I'll be ready to apply for cybersecurity positions and launch my professional journey.
+
+Conclusion:
+These past four months have been an incredible journey as I've realigned my focus towards my passion for cybersecurity. By following my roadmap and continuously enhancing my knowledge and skills, I'm confident in my ability to secure a fulfilling career in this field. I look forward to sharing more updates as I progress further along this path.
