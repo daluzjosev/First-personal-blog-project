@@ -93,3 +93,7 @@ learned sql injections - going to work on personal website blog-
 july 15
 
 just a chill day...
+
+july 17
+
+chill day, learning bug bounty (start hacking)
