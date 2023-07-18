@@ -97,3 +97,10 @@ just a chill day...
 july 17
 
 chill day, learning bug bounty (start hacking)
+
+
+july 18
+
+learned react, next.js
+
+trying to learn more to create website.
