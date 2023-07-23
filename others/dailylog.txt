@@ -120,5 +120,6 @@ watched oppenheimer
 
 july 22
 
-learned about developement cycle.
+learned about spftware developement cycle.
 almost done with google cybersecurity. need to finish it by end of month. Learning more about React JS 
+
