@@ -127,3 +127,8 @@ july 25
 
 nothing much.
 
+
+july 26
+
+finished course 6 of google cybersecurity
+(SIEMS/IDS/SURICATA)
