@@ -132,3 +132,8 @@ july 26
 
 finished course 6 of google cybersecurity
 (SIEMS/IDS/SURICATA)
+
+july 27
+
+learned binary search algorithm and data structure. also starting wdt assignment, using bootstrap to design my webpage
+
