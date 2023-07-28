@@ -137,3 +137,6 @@ july 27
 
 learned binary search algorithm and data structure. also starting wdt assignment, using bootstrap to design my webpage
 
+july 28
+
+learned regular expressions library in python. useful for cybersecurity.
