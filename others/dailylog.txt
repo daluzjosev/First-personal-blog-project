@@ -140,3 +140,7 @@ learned binary search algorithm and data structure. also starting wdt assignment
 july 28
 
 learned regular expressions library in python. useful for cybersecurity.
+
+july 29
+
+break
