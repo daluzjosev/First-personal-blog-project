@@ -148,3 +148,7 @@ break
 july 31
 
 learned about hashSet, doing medium problems in leetcode. struggling with this difficulty. missed yesterdays blog entry. 
+
+august 1
+
+created a draft of resume (needs improvement). Start reviewing for Security+ (hoping to take the exam before august 15)
