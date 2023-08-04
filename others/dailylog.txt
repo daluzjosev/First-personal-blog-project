@@ -156,3 +156,7 @@ created a draft of resume (needs improvement). Start reviewing for Security+ (ho
 aug 2
 
 received google cybersecurity certificate and badge. focusing on class test tomorrow (DIM). 
+
+aug 4
+
+reading darril gibson book for security+, experimenting with vmware and kali linux tools
