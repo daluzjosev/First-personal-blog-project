@@ -164,3 +164,7 @@ reading darril gibson book for security+, experimenting with vmware and kali lin
 aug 5
 
 leetcode and security+ grind
+
+aug 7
+
+leetcode, job search
