@@ -180,3 +180,22 @@ national day singapore. MH370 disappearance video
 aug 10
 
 portfolio continuation. 
+
+aug 11
+
+...
+
+aug 12
+
+so far: did leetcode (valid soduko) learned about set() data type and function. 
+
+problem: check the given board (list of rows) if it is a valid soduko puzzle.
+
+solution steps:
+
+initialize 3 list variables containing 9 sets for row, column, and sub-box
+
+run a nested for loop, first for the row and the second for the column. check the current cell if it is in the initialized variables. If yes then return false, if not then set.add(cell)
+
+
+finally after the loops are done and has not return false, return true.
