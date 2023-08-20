@@ -202,3 +202,8 @@ finally after the loops are done and has not return false, return true.
 
 
 Close to finishing portfolio website project. 
+
+
+aug 20
+
+in cebu, going back to singapore on 25.
