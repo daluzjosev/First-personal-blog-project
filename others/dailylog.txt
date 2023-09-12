@@ -225,3 +225,7 @@ doing the flashcard python project today.
 sept 10
 
 started chapter 4 on darril gibson
+
+sept 12
+
+made progress with group and individual assignments (MDIS). Started the Flashcard app project. learning c++
