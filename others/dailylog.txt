@@ -233,3 +233,7 @@ made progress with group and individual assignments (MDIS). Started the Flashcar
 sept 13
 
 progress on flashcard app. focusing on new project : webdev deanz website portfolio. Mexico congressional hearings about uap discloses NHI bodies.
+
+sept 15
+
+learned react basics, next step: next.js and build a functional website
