@@ -237,3 +237,8 @@ progress on flashcard app. focusing on new project : webdev deanz website portfo
 sept 15
 
 learned react basics, next step: next.js and build a functional website
+
+sept 16
+
+made progress with deanz portfolio
+
